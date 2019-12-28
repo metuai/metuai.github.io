@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://metuai.github.io
-# your url: http://USERNAME.github.io
+# url: http://metuai.github.io
+your url: http://metuai.github.io
 
 permalink: /:title/
 
